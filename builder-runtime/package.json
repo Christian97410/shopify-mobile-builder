@@ -1,0 +1,11 @@
+{
+  "name": "@ton-org/builder-runtime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-native": "*",
+    "expo": "*"
+  }
+}
