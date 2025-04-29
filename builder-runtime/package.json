@@ -1,10 +1,13 @@
 {
-  "name": "@ton-org/builder-runtime",
+  "name": "@christian97410/builder-runtime",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "Runtime for mobile preview of Shopify builder layouts",
+  "keywords": ["react-native", "expo", "builder"],
+  "author": "Christian97410",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^18.0.0",
+    "react": ">=17.0.0",
     "react-native": "*",
     "expo": "*"
   }
